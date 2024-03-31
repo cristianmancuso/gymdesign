@@ -1,8 +1,3 @@
-# React + Vite
+# G&M Design Reformas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+is a leading building and home renovation company serving Argentina and Spain. With expertise in both residential and commercial projects, we specialize in architectural design, construction management, and interior design. Our commitment to quality craftsmanship, customer satisfaction, and attention to detail sets us apart. Contact us today to bring your renovation vision to life.
